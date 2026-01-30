@@ -1,4 +1,4 @@
-# Sampling Techniques and Model Comparison
+# Sampling
 
 ## Overview
 This project analyzes the effect of different sampling techniques on an imbalanced dataset and compares the performance of multiple machine learning models using accuracy.
